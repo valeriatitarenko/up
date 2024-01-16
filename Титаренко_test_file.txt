@@ -3,21 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" type="text/css" rel="stylesheet">
-    <title>Document</title>
-</head>
-<body>
-    <header>
-        <div class="All_header_menu">
-            <div class="Logo">
-                <li><a href="#"><img src="pictures/Logo.png"></a></li>
-            </div>
-            <div class="top_menu">
-                <ul>
-                    <li><a href="#">О компании</a></li>
-                    <li><a href="#">Примущества</a></li>
-                    <li><a href="#">Доставка</a></li>
-                    <li><a href="#">Магазины</a></li>
+    <l
                     <li><a href="#">Калькулятор</a></li>
                     <li><a href="#">Оформить заявку</a></li>
       Изменения
