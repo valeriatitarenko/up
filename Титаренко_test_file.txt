@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="All_header_menu">
+            <div class="Logo">
+                <li><a href="#"><img src="pictures/Logo.png"></a></li>
+            </div>
+            <div class="top_menu">
+                <ul>
+                    <li><a href="#">О компании</a></li>
+                    <li><a href="#">Примущества</a></li>
+                    <li><a href="#">Доставка</a></li>
+                    <li><a href="#">Магазины</a></li>
+                    <li><a href="#">Калькулятор</a></li>
+                    <li><a href="#">Оформить заявку</a></li>
+                    <li><a href="#">Контакты</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="osnova">
+        <h1>БЕРЁЗКА</h1>
+        <h1>ЕВРОШОППИНГ</h1>
+        <h2>Ваш партнер по доступным ценам и оперативной доставке<br>
+            товаров из Польши в Россию.<br>
+            Доставляем товары с популярных магазинов.<br>
+            Мы ценим каждого клиента и гарантируем,<br>
+            что ваши заказы будут доставлены в срок.</h2>
+            <button><a href="#">Рассчитать стоимость</a></button>
+            <button2><a href="#">Заказать доставку</a></button2>
+        <img src="pictures/Buzz-Cargo-(Van)-Mockup 1.png">
+        
+    </div>
+</body>
+</html>
