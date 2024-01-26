@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <div class="All_header_menu">
+    <head
+        
             <div class="Logo">
                 <li><a href="#"><img src="pictures/Logo.png"></a></li>
             </div>
